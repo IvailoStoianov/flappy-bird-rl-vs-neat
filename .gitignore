@@ -4,5 +4,9 @@ __pycache__/
 
 .idea/
 .vscode/
+anaconda_projects/
 
 flappy_model.zip
+
+training_stats/output/*
+!training_stats/output/.gitkeep

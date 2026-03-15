@@ -129,3 +129,12 @@ flappy-bird-rl/
 - **matplotlib** – training stats plot
 
 These are listed in `environment.yml` for conda.
+
+## References and resources
+
+- [Gymnasium](https://gymnasium.farama.org/) – RL environment API
+- [Pygame documentation](https://www.pygame.org/docs/) – game framework
+- [Flappy Bird with Pygame (YouTube)](https://youtu.be/hyKL58CySV0?si=zF3BJG4sXJgyxIwb)
+- [Reinforcement learning / PPO (YouTube)](https://youtu.be/VnpRp7ZglfA?si=-nVTGRvFgEMHN5C-)
+- [Flappy Bird assets](https://kosresetr55.itch.io/flappy-bird-assets-by-kosresetr55) by Kosresetr55
+- [IBM: Proximal Policy Optimization](https://www.ibm.com/think/topics/proximal-policy-optimization)
