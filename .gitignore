@@ -5,6 +5,7 @@ __pycache__/
 .idea/
 .vscode/
 anaconda_projects/
+.ipynb_checkpoints/
 
 flappy_model.zip
 
