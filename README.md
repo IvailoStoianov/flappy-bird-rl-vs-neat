@@ -130,6 +130,8 @@ flappy-bird-rl/
 
 These are listed in `environment.yml` for conda.
 
+## Showcase on youtube - https://www.youtube.com/watch?v=MGWFNOkZEko/
+
 ## References and resources
 
 - [Gymnasium](https://gymnasium.farama.org/) – RL environment API
